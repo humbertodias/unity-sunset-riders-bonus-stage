@@ -4,30 +4,21 @@ using UnityEngine;
 
 public class BonusManager : MonoBehaviour
 {
+    [SerializeField] Transform[] posEnemys;
 
-    [SerializeField]
-    Transform[] posEnemys;
+    [SerializeField] GameObject[] enemysBoss;
 
-    [SerializeField]
-    GameObject[] enemysBoss;
+    [SerializeField] List<int> list = new List<int>();
 
-    [SerializeField]
-    List<int> list = new List<int>();
+    [SerializeField] int randomPos;
 
-    [SerializeField]
-    int randomPos;
+    [SerializeField] bool existsNumber;
 
-    [SerializeField]
-    bool existsNumber;
-    
 
     void Start()
     {
-
         randomPos = Random.Range(0, 4);
         InvokeRepeating("SpawnObject", 1, 2);
-
-
     }
 
     void SpawnObject()
@@ -41,34 +32,24 @@ public class BonusManager : MonoBehaviour
         posEnemys[randomPos].GetChild(0).gameObject.SetActive(true);
 
 
-        if (list.Contains(randomPos)){
-           
-
-            if (list.Count > 5) {
-
-
+        if (list.Contains(randomPos))
+        {
+            if (list.Count > 5)
+            {
                 existsNumber = true;
 
                 if (existsNumber)
                 {
-                    foreach (GameObject enemys in enemysBoss)
+                    foreach (var enemy in enemysBoss)
                     {
-                
-                        enemys.SetActive(false);
+                        enemy.SetActive(false);
                         existsNumber = false;
-
                     }
                 }
+
                 list.Clear();
                 randomPos = Random.Range(0, 4);
-
-
             }
         }
-
-
     }
-
-
-
 }

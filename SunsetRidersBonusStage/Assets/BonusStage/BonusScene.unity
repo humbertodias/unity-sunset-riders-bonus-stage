@@ -498,7 +498,6 @@ GameObject:
   m_Component:
   - component: {fileID: 585820963}
   - component: {fileID: 585820962}
-  - component: {fileID: 585820964}
   - component: {fileID: 585820965}
   m_Layer: 0
   m_Name: Cursor
@@ -572,18 +571,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &585820964
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 585820961}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2c09d0c530d0bd448928886359462e05, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &585820965
 MonoBehaviour:
   m_ObjectHideFlags: 0
