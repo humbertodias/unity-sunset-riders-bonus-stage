@@ -1,0 +1,1903 @@
+fileFormatVersion: 2
+guid: 139e2894915995d48827f725f100bd2b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 916072990529899970
+    second: BonusStage_0
+  - first:
+      213: -7436365359740678475
+    second: BonusStage_1
+  - first:
+      213: -5507709973450177084
+    second: BonusStage_2
+  - first:
+      213: -8876484585089433681
+    second: BonusStage_3
+  - first:
+      213: -1975950746853389387
+    second: BonusStage_4
+  - first:
+      213: 8089989357210497282
+    second: BonusStage_5
+  - first:
+      213: 6273805095017202449
+    second: BonusStage_6
+  - first:
+      213: -5376922637120029005
+    second: BonusStage_7
+  - first:
+      213: 6036835987715379973
+    second: BonusStage_8
+  - first:
+      213: 6982516008034423521
+    second: BonusStage_9
+  - first:
+      213: 7853348619038959498
+    second: BonusStage_10
+  - first:
+      213: -8108458329398469650
+    second: BonusStage_11
+  - first:
+      213: -6036212568603277085
+    second: BonusStage_12
+  - first:
+      213: 3746553408186135664
+    second: BonusStage_13
+  - first:
+      213: -2473948606944775609
+    second: BonusStage_14
+  - first:
+      213: 2641042454075110748
+    second: BonusStage_15
+  - first:
+      213: 5514637461781522496
+    second: BonusStage_16
+  - first:
+      213: -5644565416434208833
+    second: BonusStage_17
+  - first:
+      213: 983641839014190164
+    second: BonusStage_18
+  - first:
+      213: -7553234557264932483
+    second: BonusStage_19
+  - first:
+      213: 3439715134100872194
+    second: BonusStage_20
+  - first:
+      213: 6014140350395918944
+    second: BonusStage_21
+  - first:
+      213: 8695880827254699231
+    second: BonusStage_22
+  - first:
+      213: 6631636835989730044
+    second: BonusStage_23
+  - first:
+      213: 5326963858711919075
+    second: BonusStage_24
+  - first:
+      213: -8938981909806017088
+    second: BonusStage_25
+  - first:
+      213: -3326479983406029954
+    second: BonusStage_26
+  - first:
+      213: -6268046611062065778
+    second: BonusStage_27
+  - first:
+      213: -2593371613222567505
+    second: BonusStage_28
+  - first:
+      213: 5659349427729648961
+    second: BonusStage_29
+  - first:
+      213: -7054365876863090137
+    second: BonusStage_30
+  - first:
+      213: 1345344859369592296
+    second: BonusStage_31
+  - first:
+      213: -1533080094074306696
+    second: BonusStage_32
+  - first:
+      213: 5205940827762089518
+    second: BonusStage_33
+  - first:
+      213: -1718174319266191337
+    second: BonusStage_34
+  - first:
+      213: 7984244396690550383
+    second: BonusStage_35
+  - first:
+      213: 9026871147530852625
+    second: BonusStage_36
+  - first:
+      213: -2811872780469193684
+    second: BonusStage_37
+  - first:
+      213: -8596669244046952048
+    second: BonusStage_38
+  - first:
+      213: -6480265766622710171
+    second: BonusStage_39
+  - first:
+      213: 8294543426159387447
+    second: BonusStage_40
+  - first:
+      213: 8244768354164597090
+    second: BonusStage_41
+  - first:
+      213: -6797316691707743856
+    second: BonusStage_42
+  - first:
+      213: -1937512903636941654
+    second: BonusStage_43
+  - first:
+      213: 293062687136293723
+    second: BonusStage_44
+  - first:
+      213: -1804701220761967545
+    second: BonusStage_45
+  - first:
+      213: -2377771265867168388
+    second: BonusStage_46
+  - first:
+      213: 8553748776185805128
+    second: BonusStage_47
+  - first:
+      213: -7542353595785426799
+    second: BonusStage_48
+  - first:
+      213: 6575364899757620889
+    second: BonusStage_49
+  - first:
+      213: 5571923389886158751
+    second: BonusStage_50
+  - first:
+      213: 747661384317932271
+    second: BonusStage_51
+  - first:
+      213: 447521629408731246
+    second: BonusStage_52
+  - first:
+      213: 2490187909190856699
+    second: BonusStage_53
+  - first:
+      213: -1330198547692596532
+    second: BonusStage_54
+  - first:
+      213: 1045442748251088369
+    second: BonusStage_55
+  - first:
+      213: -428584148497449069
+    second: BonusStage_56
+  - first:
+      213: -7981021996099064170
+    second: BonusStage_57
+  - first:
+      213: -4340059797631626043
+    second: BonusStage_58
+  - first:
+      213: -7987860547522150467
+    second: BonusStage_59
+  - first:
+      213: -2855657589427516840
+    second: BonusStage_60
+  - first:
+      213: -4202200025586242296
+    second: BonusStage_61
+  - first:
+      213: -4163110580187340672
+    second: BonusStage_62
+  - first:
+      213: -5128917053457947312
+    second: BonusStage_63
+  - first:
+      213: 7235653500546564264
+    second: BonusStage_64
+  - first:
+      213: -6565305893866686960
+    second: BonusStage_65
+  - first:
+      213: -2551065068815873315
+    second: BonusStage_66
+  - first:
+      213: -4034394410134623276
+    second: BonusStage_67
+  - first:
+      213: 2421561665200590103
+    second: BonusStage_68
+  - first:
+      213: 1734988481643072342
+    second: BonusStage_69
+  - first:
+      213: 5817440421448868927
+    second: BonusStage_70
+  - first:
+      213: 6599718454878888523
+    second: BonusStage_71
+  - first:
+      213: -3756995284460715820
+    second: BonusStage_72
+  - first:
+      213: 1474142281798447453
+    second: BonusStage_73
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BonusStage_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 256
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7b05e6bf5399441b8b482837a74b7d
+      internalID: 916072990529899970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 212
+        width: 256
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4fbdc6b26a1284198fc799ecf798f1
+      internalID: -7436365359740678475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_2
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 391
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4908c63b1b745284fb6317c1aafe5951
+      internalID: -5507709973450177084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_3
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 392
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982a582e08d03414cb21ae45c04bba99
+      internalID: -8876484585089433681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_4
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 392
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff21e3d176d3d6f458f16386712ab0e9
+      internalID: -1975950746853389387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_5
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 393
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91df070efc6b788448c1ac09e8ba93fa
+      internalID: 8089989357210497282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_6
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 323
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7910663cc232d6049b45ab4758096983
+      internalID: 6273805095017202449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_7
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 323
+        width: 40
+        height: 61
+      alignment: 9
+      pivot: {x: 0.6, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e57640173a4994fb0810ef172a6b2f
+      internalID: -5376922637120029005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_8
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 324
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485b49381faac1f4bafbb44a3a28b4d6
+      internalID: 6036835987715379973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_9
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 324
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee1b465224d1fe46b014fe7058e89d1
+      internalID: 6982516008034423521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_10
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 229
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae27e7f6627c6ec4d8eb80e2a381e062
+      internalID: 7853348619038959498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_11
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 229
+        width: 58
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1ac927c8ef60d408807cce8b41a8b4
+      internalID: -8108458329398469650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_12
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 230
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f259801d0e802624d8f8cbb93f432ad9
+      internalID: -6036212568603277085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_13
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 230
+        width: 58
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228f12108f143dc44b122da752eca4e2
+      internalID: 3746553408186135664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_14
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 172
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0e0422b83954f4c9c31edf83a1ce6b
+      internalID: -2473948606944775609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_15
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 173
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631c718e85a21f14589b3ff988464d81
+      internalID: 2641042454075110748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_16
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 152
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3652f0b402ab94e8444323f015ce41
+      internalID: 5514637461781522496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_17
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 152
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35600e089937b004889abec8d3991a9e
+      internalID: -5644565416434208833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_18
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 152
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2359d1eea93c74aa3d2a9787dfe085
+      internalID: 983641839014190164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_19
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 152
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa59bc5c9890c514e91e0f2b9db4b7b5
+      internalID: -7553234557264932483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_20
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 152
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c61e47cac250940a004aaf0b069457
+      internalID: 3439715134100872194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_21
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 152
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06823ffcb9df8f84088d8182dfbf577b
+      internalID: 6014140350395918944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_22
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 152
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db036be77fb92524f9c69fa7a0f5c681
+      internalID: 8695880827254699231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_23
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 152
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbb3525dfa8e29409060416c2f3d988
+      internalID: 6631636835989730044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_24
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 152
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9ac5ce36d651f4db257c825153f8c7
+      internalID: 5326963858711919075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_25
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 152
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837444216171dc843a3cfec39a3fdffe
+      internalID: -8938981909806017088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_26
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 104
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b028a6965eb7d124d919deaf21c55340
+      internalID: -3326479983406029954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_27
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 104
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9473ef53fc0a05a439ef46793679afc2
+      internalID: -6268046611062065778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_28
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 144
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f9474b8359f904fa6dab00894f0e2c
+      internalID: -2593371613222567505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_29
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 144
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd510920410dd244b80ba38f8519e09c
+      internalID: 5659349427729648961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_30
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 144
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a924a20177171642ab225a99e6f2836
+      internalID: -7054365876863090137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_31
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 144
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f40d8bdf9077d4eb80c1fed84a81f7
+      internalID: 1345344859369592296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_32
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 144
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c0a316234d2fe4582fccd953fa2b97
+      internalID: -1533080094074306696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_33
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 144
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914987e8fea962d4fae2885fd4f47f09
+      internalID: 5205940827762089518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_34
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 144
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5337843859c8d36429c6f21b24d2f96d
+      internalID: -1718174319266191337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_35
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 144
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d725ef3cd42254687937d15bb1088e
+      internalID: 7984244396690550383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_36
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 144
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4c07fc6518c934ab54ce84262cb790
+      internalID: 9026871147530852625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_37
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 144
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55ab55b8df6e6345a53b992cbe3cf9d
+      internalID: -2811872780469193684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_38
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 91
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ee50617934c7748b4a14588b61cbdd
+      internalID: -8596669244046952048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_39
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 91
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faaf9e110c240bc45ac69d5c59536841
+      internalID: -6480265766622710171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_40
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 104
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e8e356c15290f428aa0e07fae39c77
+      internalID: 8294543426159387447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_41
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 104
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348b285e2d4d32048a89416c4c974324
+      internalID: 8244768354164597090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_42
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 80
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0763ed20b98c64387101a15e067024
+      internalID: -6797316691707743856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_43
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 100
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636d6991cc24eab4a9f3893e3777b1f0
+      internalID: -1937512903636941654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_44
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 100
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26827d27cfc55b34eb1dc820327ddf24
+      internalID: 293062687136293723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_45
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 92
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647129bba427bf742b7f7ea263927a48
+      internalID: -1804701220761967545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_46
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 92
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11ce943121e00b448c6c6d7763d6c7d
+      internalID: -2377771265867168388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_47
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 10
+        width: 58
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66735f38dbeabd74185d76dadb7f3dce
+      internalID: 8553748776185805128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_48
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 56
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d10950bc75b1947a192a174e2881bd
+      internalID: -7542353595785426799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_49
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 56
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b10587c33cf724f8cf120d383a4de9
+      internalID: 6575364899757620889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_50
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 78
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6addbc04a2358b94490151bbc565b37e
+      internalID: 5571923389886158751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_51
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 78
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034a3e95847ff3142802d222ca330d64
+      internalID: 747661384317932271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_52
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 85
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ee73a56279c2740851d5dfd125d8bf
+      internalID: 447521629408731246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_53
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 85
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925f5af984e929149a27949e08975e64
+      internalID: 2490187909190856699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_54
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 10
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b02c14ce2edec4c9f084c2855d5171
+      internalID: -1330198547692596532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_55
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 77
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e31385b0eb751947909e5948daa0dab
+      internalID: 1045442748251088369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_56
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 77
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc28a8b6da482546a3c9d21b9ea7c2c
+      internalID: -428584148497449069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_57
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 53
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923cc70416dacc94c9a9fd0c9fa5bcb0
+      internalID: -7981021996099064170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_58
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 53
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c14cf1fa750ec64a90389da65dc2b7b
+      internalID: -4340059797631626043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_59
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 66
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739602d81da63fe4392bc5e42f1b0aed
+      internalID: -7987860547522150467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_60
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 66
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e36f94ffdb07f2438c29d51dd772026
+      internalID: -2855657589427516840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_61
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 42
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4c46ff78146694da80062557a2bc79
+      internalID: -4202200025586242296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_62
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 62
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010abec098cc4ec4f9da8098e569fcb9
+      internalID: -4163110580187340672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_63
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 62
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc4429f77b8504499fb0d33f77d0dd0
+      internalID: -5128917053457947312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_64
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 45
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c51ba4c42f9aa44db7c851b492f1186
+      internalID: 7235653500546564264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_65
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 54
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0398332024e924cbd1c76c15d2a307
+      internalID: -6565305893866686960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_66
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 54
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a658fb3d969ddeb42a96169632dee71d
+      internalID: -2551065068815873315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_67
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 45
+        width: 55
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12b8d36c50350941a1f2a17ca53d299
+      internalID: -4034394410134623276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_68
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 40
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd17fe9d8883c74eae430a2bb53e855
+      internalID: 2421561665200590103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_69
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 40
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fc631bfdf27754c978b1ecb3bb7238
+      internalID: 1734988481643072342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_70
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 47
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ad7225905dd1248bc477d2ac37b46c
+      internalID: 5817440421448868927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_71
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 47
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714a9e8503c815a4aa8d3e5dd180bc40
+      internalID: 6599718454878888523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_72
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 39
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032f70a084203854cbdbc6559659b3e5
+      internalID: -3756995284460715820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusStage_73
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 39
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0768031e4b38f5340ba1739a576da209
+      internalID: 1474142281798447453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3b1a8f3c8583adc4cb3834fc919551d2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

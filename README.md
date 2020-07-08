@@ -1,1 +1,6 @@
-# unity-sunset-riders-bonus-stage
+# Sunset Riders - Bonus Stage
+
+
+# Commands
+
+Mouse Click = Shoot
