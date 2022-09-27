@@ -43,7 +43,7 @@ public class HitEnemyBonusSunset : MonoBehaviour
 
     public void PlayDie()
     {
-        // AudioSource.PlayClipAtPoint(audioDie, transform.position, 1);
+        AudioSource.PlayClipAtPoint(audioDie, transform.position, 1);
     }
     
     IEnumerator Reset()

@@ -31,6 +31,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -5.56, y: 0.74, z: 0}
   m_LocalScale: {x: 5, y: 5, z: 5}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -46,10 +47,12 @@ SpriteRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -74,8 +77,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 6273805095017202449, guid: 139e2894915995d48827f725f100bd2b,
-    type: 3}
+  m_Sprite: {fileID: 6273805095017202449, guid: 139e2894915995d48827f725f100bd2b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -88,7 +90,7 @@ SpriteRenderer:
   m_SpriteSortPoint: 0
 --- !u!95 &1528084578
 Animator:
-  serializedVersion: 3
+  serializedVersion: 4
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -101,6 +103,7 @@ Animator:
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
@@ -143,10 +146,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0884a142c4a14da48a2e5785bf3d0a2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spriteDie: {fileID: 6273805095017202449, guid: 139e2894915995d48827f725f100bd2b,
-    type: 3}
-  spriteLive: {fileID: -5376922637120029005, guid: 139e2894915995d48827f725f100bd2b,
-    type: 3}
+  spriteDie: {fileID: 6273805095017202449, guid: 139e2894915995d48827f725f100bd2b, type: 3}
+  spriteLive: {fileID: -5376922637120029005, guid: 139e2894915995d48827f725f100bd2b, type: 3}
   cursorOver: {fileID: 2800000, guid: 6f695a5912b788b49aa23ad1ca94f1ec, type: 3}
   cursorDie: {fileID: 2800000, guid: 961af786ae09ef4499c8119c798f5963, type: 3}
   anim: {fileID: 1528084578}
@@ -162,8 +163,7 @@ AudioSource:
   m_GameObject: {fileID: 6156605997098374281}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 24300002, guid: c839b01e5f25a4f80add3d83bd1cac9e,
-    type: 2}
+  OutputAudioMixerGroup: {fileID: 24300002, guid: c839b01e5f25a4f80add3d83bd1cac9e, type: 2}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 1
   m_Volume: 1

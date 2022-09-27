@@ -225,7 +225,7 @@ TextureImporter:
       213: 1474142281798447453
     second: BonusStage_73
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -245,6 +245,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -253,12 +255,12 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
-    wrapW: -1
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -276,9 +278,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -318,6 +325,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1895,6 +1926,81 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      BonusStage_36: 9026871147530852625
+      BonusStage_0: 916072990529899970
+      BonusStage_18: 983641839014190164
+      BonusStage_30: -7054365876863090137
+      BonusStage_31: 1345344859369592296
+      BonusStage_45: -1804701220761967545
+      BonusStage_1: -7436365359740678475
+      BonusStage_29: 5659349427729648961
+      BonusStage_34: -1718174319266191337
+      BonusStage_5: 8089989357210497282
+      BonusStage_14: -2473948606944775609
+      BonusStage_58: -4340059797631626043
+      BonusStage_40: 8294543426159387447
+      BonusStage_25: -8938981909806017088
+      BonusStage_26: -3326479983406029954
+      BonusStage_24: 5326963858711919075
+      BonusStage_20: 3439715134100872194
+      BonusStage_63: -5128917053457947312
+      BonusStage_16: 5514637461781522496
+      BonusStage_65: -6565305893866686960
+      BonusStage_11: -8108458329398469650
+      BonusStage_61: -4202200025586242296
+      BonusStage_55: 1045442748251088369
+      BonusStage_35: 7984244396690550383
+      BonusStage_44: 293062687136293723
+      BonusStage_68: 2421561665200590103
+      BonusStage_2: -5507709973450177084
+      BonusStage_70: 5817440421448868927
+      BonusStage_71: 6599718454878888523
+      BonusStage_56: -428584148497449069
+      BonusStage_47: 8553748776185805128
+      BonusStage_22: 8695880827254699231
+      BonusStage_42: -6797316691707743856
+      BonusStage_49: 6575364899757620889
+      BonusStage_39: -6480265766622710171
+      BonusStage_59: -7987860547522150467
+      BonusStage_12: -6036212568603277085
+      BonusStage_37: -2811872780469193684
+      BonusStage_62: -4163110580187340672
+      BonusStage_15: 2641042454075110748
+      BonusStage_32: -1533080094074306696
+      BonusStage_28: -2593371613222567505
+      BonusStage_53: 2490187909190856699
+      BonusStage_54: -1330198547692596532
+      BonusStage_3: -8876484585089433681
+      BonusStage_7: -5376922637120029005
+      BonusStage_67: -4034394410134623276
+      BonusStage_23: 6631636835989730044
+      BonusStage_6: 6273805095017202449
+      BonusStage_8: 6036835987715379973
+      BonusStage_19: -7553234557264932483
+      BonusStage_57: -7981021996099064170
+      BonusStage_27: -6268046611062065778
+      BonusStage_73: 1474142281798447453
+      BonusStage_52: 447521629408731246
+      BonusStage_9: 6982516008034423521
+      BonusStage_4: -1975950746853389387
+      BonusStage_13: 3746553408186135664
+      BonusStage_38: -8596669244046952048
+      BonusStage_48: -7542353595785426799
+      BonusStage_72: -3756995284460715820
+      BonusStage_17: -5644565416434208833
+      BonusStage_64: 7235653500546564264
+      BonusStage_43: -1937512903636941654
+      BonusStage_69: 1734988481643072342
+      BonusStage_50: 5571923389886158751
+      BonusStage_66: -2551065068815873315
+      BonusStage_33: 5205940827762089518
+      BonusStage_21: 6014140350395918944
+      BonusStage_46: -2377771265867168388
+      BonusStage_51: 747661384317932271
+      BonusStage_10: 7853348619038959498
+      BonusStage_41: 8244768354164597090
+      BonusStage_60: -2855657589427516840
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
