@@ -9,3 +9,4 @@ EditorBuildSettings:
     path: Assets/BonusStage/Scenes/BonusScene.unity
     guid: 53d8f6f69e6800a4084c3955d8229904
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
