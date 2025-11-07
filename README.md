@@ -1,4 +1,4 @@
-[![Build](https://github.com/humbertodias/unity-sunset-riders-bonus-stage/actions/workflows/build.yml/badge.svg)](https://github.com/humbertodias/unity-sunset-riders-bonus-stage/actions/workflows/build.yml)
+[![Build](https://github.com/humbertodias/unity-sunset-riders-bonus-stage/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/humbertodias/unity-sunset-riders-bonus-stage/actions/workflows/gh-pages.yml)
 
 # Sunset Riders - Bonus Stage
 
